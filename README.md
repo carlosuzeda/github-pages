@@ -1,8 +1,8 @@
-<img src="https://pages.github.com/images/logo.svg" alt="Logo" style="zoom:150%;" />
+<img src="https://pages.github.com/images/logo.svg" alt="Logo" style="zoom:150%; background:black;" />
+
+# GitHub Pages
 
 ## Gostaria de ter o seu projeto online?
-
-# 
 
 ## Mas o que é GitHub Pages?
 
@@ -38,6 +38,6 @@ https://carlosuzeda.github.io/CadastroDeTarefas/
 
 ### Com isso, notamos o quão fácil é criar uma página de apresentação para nossos repositórios de forma totalmente gratuita. 
 
-\## Authors
+## Autor
 
-\- [@carlosuzeda](https://www.github.com/carlosuzeda)
+[@carlosuzeda](https://www.github.com/carlosuzeda)
